@@ -1,27 +1,48 @@
 [
-    {
-        "id": "Notification Studio",
-        "name": "Notification Studio",
-        "title": "Notification Studio",
-        "version": null,
-        "description": "Notification Studio",
-        "supportEmail": "Consultant_View_Support@restricted.chase.com",
-        "manifestType": "manifest",
-        "manifest": "https://cdn.openfin.co/studio/notification/app.json",
-        "icons": [
-            {
-                "icon": "https://cdn.openfin.co/favicon.ico"
-            }
-        ]
-    },
-    {
-        "id": "Capital Markets",
-        "name": "Capital Markets",
-        "title": "Capital Markets",
-        "version": null,
-        "description": "Consultant View",
-        "supportEmail": "Consultant_View_Support@restricted.chase.com",
-        "manifestType": "view",
-        "manifest": "http://localhost:8080/Capital-Markets.json"
-    }
+  {
+      "id": "Notification Studio",
+      "name": "Notification Studio",
+      "title": "Notification Studio",
+      "version": null,
+      "description": "Notification Studio",
+      "supportEmail": "Consultant_View_Support@restricted.chase.com",
+      "manifestType": "manifest",
+      "manifest": "https://cdn.openfin.co/studio/notification/app.json",
+      "icons": [
+          {
+              "icon": "https://cdn.openfin.co/favicon.ico"
+          }
+      ]
+  },
+  {
+      "id": "Capital Markets",
+      "name": "Capital Markets",
+      "title": "Capital Markets",
+      "version": null,
+      "description": "Consultant View",
+      "supportEmail": "Consultant_View_Support@restricted.chase.com",
+      "manifestType": "view",
+      "manifest": "http://localhost:8080/Capital-Markets.json"
+  },
+  {
+      "appId": "notepad",
+      "name": "notepad",
+      "title": "Note Pad",
+      "manifestType": "external",
+      "version": null,
+      "intents": [],
+      "publisher": "openfin",
+      "description": "The greatest text editor ever made. Prove me wrong.",
+      "manifest": "notepad.exe",
+      "contactEmail": null,
+      "customConfig": [],
+      "supportEmail": null,
+      "icons": [
+        {
+          "icon": "https://cdn.openfin.co/app_directory_dev/img/1575389244266.png"
+        }
+      ],
+      "tags": [],
+      "images": []
+}
 ]
