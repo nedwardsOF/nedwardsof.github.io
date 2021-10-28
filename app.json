@@ -1,0 +1,24 @@
+{
+    "startup_app": {
+        "name": "Hello OpenFin",
+        "url": "https://cdn.openfin.co/demos/hello/index.html",
+        "uuid": "OpenFinHelloWorld",
+        "applicationIcon": "https://cdn.openfin.co/demos/hello/img/openfin.ico",
+        "autoShow": true,
+        "permissions":{
+            "System":{
+               "ASecureAPI":true
+            }
+         }
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    },
+   "shortcut": {
+    "company": "OpenFin",
+    "description": "Hello OpenFin",
+    "icon": "https://cdn.openfin.co/demos/hello/img/openfin.ico",
+    "name": "Hello OpenFin"
+   }
+}
