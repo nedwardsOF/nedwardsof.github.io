@@ -1,0 +1,16 @@
+{
+    "startup_app": {
+        "name": "Hello OpenFin",
+        "url": "https://cdn.openfin.co/demos/hello/index.html",
+        "uuid": "OpenFinHelloWorld",
+        "applicationIcon": "https://cdn.openfin.co/demos/hello/img/openfin.ico",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stableblahgibberish"
+    },
+    "supportInformation":{
+        "moreInfoUrl":"https://www.google.com"
+   }
+}
