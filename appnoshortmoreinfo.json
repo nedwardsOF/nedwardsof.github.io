@@ -4,6 +4,7 @@
         "url": "https://cdn.openfin.co/demos/hello/index.html",
         "uuid": "OpenFinHelloWorld",
         "applicationIcon": "https://cdn.openfin.co/demos/hello/img/openfin.ico",
+        "securityPermissionsMoreInfoUrl": "https://google.com",
         "autoShow": true,
         "permissions":{
             "System":{
